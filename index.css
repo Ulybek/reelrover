@@ -115,7 +115,7 @@ nav .log_in:hover {
 
 
 .section_1 {
-    background-image: url ("image 20.png") ;
+    background-image: url ("image\ 20.png");
     background-position: 0%;
     flex-shrink: 0;
     background-size: cover;
