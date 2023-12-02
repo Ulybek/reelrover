@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://zoeyeoman.com/wp-content/uploads/2020/02/black_bg.jpg);
+    background-size: cover;
+}
+
+main .main_login{
+   
+}
+
+.main_login {
+  
+    background-color: white;
+    width: 380px;
+    height: 450px;
+    position: relative;
+    top: 200px;
+    margin-left: 560px;
+}
+.mb-3mt-3 {
+    font-size: 30px;
+    font-family: a;
+}
